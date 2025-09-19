@@ -1,26 +1,26 @@
-# AI Chatbot with Gemini API
+# AI Chatbot with Gemini API(MADE BY ADITYA SRIVASTAVA)
 
-A lightweight, web-based AI chatbot built with HTML, CSS, and JavaScript that leverages Google's Gemini API to provide intelligent responses to text prompts and image descriptions.
+A simple, lightweight AI chatbot built with pure HTML, CSS, and vanilla JavaScript that integrates with Google's Gemini API to provide intelligent responses to text prompts and image descriptions. No frameworks or libraries required!
 
 ## ✨ Features
-
+- **Simple & Lightweight**: Built with pure vanilla JavaScript - no frameworks needed
+- **Easy Setup**: Just open the HTML file in your browser - no build process required
 - **Text Chat**: Natural language conversations powered by Gemini AI
 - **Image Analysis**: Upload and analyze images with AI-generated descriptions
-- **Clean UI**: Modern, responsive design for seamless user experience
-- **Real-time Responses**: Fast API integration for instant AI interactions
-- **Cross-platform**: Works on desktop and mobile browsers
+- **Clean UI**: Modern, responsive design using pure CSS
+- **Real-time Responses**: Direct API integration for instant AI interactions
+- **Cross-platform**: Works on any modern web browser
 
 ## 🚀 Demo
 
 **Live Demo**: [https://dashing-taffy-11af3d.netlify.app/](https://dashing-taffy-11af3d.netlify.app/)
 
-[Add a screenshot or GIF of your chatbot in action here]
-
 ## 🛠️ Technologies Used
 
-- **Frontend**: HTML5, CSS3, Vanilla JavaScript
+- **Frontend**: HTML5, CSS3, Pure Vanilla JavaScript (No frameworks!)
 - **AI API**: Google Gemini API
-- **Styling**: Custom CSS (responsive design)
+- **Styling**: Custom CSS with responsive design
+- **No Dependencies**: Zero external libraries or frameworks required
 
 ## 📋 Prerequisites
 
@@ -28,7 +28,7 @@ Before running this project, make sure you have:
 
 - A modern web browser (Chrome, Firefox, Safari, Edge)
 - A Google AI Studio account and Gemini API key
-- A local web server (optional but recommended)
+- That's it! No Node.js, npm, or build tools required
 
 ## 🔧 Installation
 
